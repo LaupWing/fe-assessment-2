@@ -39,6 +39,7 @@ class nextSection {
         this.disableButton()
     }
     next() {
+        console.log(this)
         const done = this.form.querySelectorAll('.done')
         const fields = this.form.querySelectorAll('.field')
         const section = document.querySelector('.signup-part')

@@ -6,12 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
     <link rel="stylesheet" href="./style.css" />
-    <script src="./signup.js" defer></script>
+    <script src="./main.js" defer type="module"></script>
+    <script src="./UI/modal.js" defer></script>
 </head>
 
 <body>
     <main>
         <h2>Signup<span> 1/4</span></h2>
+        <p class="signup-part">
+            Your Inlog Info
+        </p>
         <form method="POST" action="/signup" enctype="multipart/form-data">
             <div class="field visible">
                 <input type="email" placeholder="Email" name="email" />
@@ -65,6 +69,7 @@
             </div>
         </form>
         <a href="/signup"> Already have an account?<span> Login</span> here</a>
+        <laup-modal></laup-modal>
         <div class="progress">
             <div class="steps-hearth">
                 <div class="step one">

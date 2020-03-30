@@ -62,6 +62,20 @@ The posssible solution for this is to add checkboxes to toggle visiblity in the 
 *   More comprehensive
 *   Lighter on the eyes
 *   Less Effort to navigate
+*   Buttons and functional doenst work
 
 ### With CSS and Javascript
 By adding Javascript to the mix, the user can navigate to diffrent sections of the `form` by using the next and back buttons. Also there is an realtime check on the bottom to see which fields has to be filled in to maken an account. This also can be clicked to see what the error is or what the current state is.  
+
+**_Navigate through form_**
+![with css](https://github.com/LaupWing/fe-assessment-2/blob/master/docs/navigate.gif)
+
+**_See Error_**
+![with css](https://github.com/LaupWing/Project-Tech/blob/master/READMEImages/signup_more_info.gif)
+
+#### Summary With Javscript
+*   Visual Hierarchy
+*   More comprehensive
+*   Lighter on the eyes
+*   Less Effort to navigate
+*   Buttons and functional doenst work

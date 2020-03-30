@@ -7,6 +7,8 @@
         * [Summary Without CSS and Javascript](#summary-without-css-and-javascript)
     * [With CSS](#with-css)
         * [Summarry With CSS](#summary-with-css)
+    * [With CSS and Javascript](#with-css-and-javascript)
+        * [Summarry With Javascript](#summary-with-javascript)
 
 ## Progressive Enhancement
 Progressive Enhancement is gradually enhancing the website you are building. Your website has to work without javascript and css and by using javascript and css you can imporve your website (enhance). You can think of content first with Progressive enhancement.
@@ -74,8 +76,8 @@ By adding Javascript to the mix, the user can navigate to diffrent sections of t
 ![with css](https://github.com/LaupWing/Project-Tech/blob/master/READMEImages/signup_more_info.gif)
 
 #### Summary With Javscript
-*   Visual Hierarchy
-*   More comprehensive
-*   Lighter on the eyes
-*   Less Effort to navigate
-*   Buttons and functional doenst work
+*   More functional
+*   Buttons become clickable
+*   Move through form with buttons
+*   Show error info
+*   Show Progress

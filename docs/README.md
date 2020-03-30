@@ -27,4 +27,23 @@ My job story on its pures form, so without javascript and css, is just one big f
 </form>
 ```
 
-![without css and html](https://github.com/LaupWing/fe-assessment-2/blob/master/docs/no_css_js.gif)
+**Without CSS and Javscript**
+![without css and Javscript](https://github.com/LaupWing/fe-assessment-2/blob/master/docs/no_css_js.gif)
+
+### With CSS
+When adding css the website looks a lot better and its more comprehensive, because you can give some visual hierarchie by making the importnat stuff bigger and less important smaller.
+I also hide some parts of the form with the use of css, so that users doesnt feel overwhelmed of the information that he/she has to fill in.
+
+The only thing is that users cant switch to other parts of the form, because the buttons doesnt have an click event attached to it. This has to be done with javascript. 
+The posssible solution for this is to add checkboxes to toggle visiblity in the form.
+```css
+.field{
+    opacity: 0;
+}
+.checkbox:checked ~ .field{
+    opacity: 1;
+}
+```
+
+**Added CSS**
+![with css](https://github.com/LaupWing/fe-assessment-2/blob/master/docs/css_on.gif)

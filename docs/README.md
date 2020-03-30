@@ -4,7 +4,9 @@
 * [Hoisting, Scope, Closure, and Context]()
 * [Progressive Enhancement](#progressive-enhancement)
     * [Without CSS and Javascript](#without-css-and-javascript)
+        * [Summary Without CSS and Javascript](#summary-without-css-and-javascript)
     * [With CSS](#with-css)
+        * [Summarry With CSS](#summary-with-css)
 
 ## Progressive Enhancement
 Progressive Enhancement is gradually enhancing the website you are building. Your website has to work without javascript and css and by using javascript and css you can imporve your website (enhance). You can think of content first with Progressive enhancement.
@@ -13,6 +15,7 @@ In this section Im gonna describe how i applied Progressive Enhacement with the 
 
 ### Without CSS and Javascript
 My job story on its pures form, so without javascript and css, is just one big form which posts the info to the server and saves it in the backend. It doesnt required any css and javascript create an account, becuase my job story on its purest form is just an `form`  which sends an post request to an server. Its only without css very ugly.
+
 
 ```html
 <form method="POST" action="/signup" enctype="multipart/form-data">
@@ -27,8 +30,14 @@ My job story on its pures form, so without javascript and css, is just one big f
 </form>
 ```
 
-**Without CSS and Javscript**
+
+**_Without CSS and Javscript_**
 ![without css and Javscript](https://github.com/LaupWing/fe-assessment-2/blob/master/docs/no_css_js.gif)
+
+#### Summary Without CSS and Javascript
+*   Works, users can post account
+*   Hard to find stuff
+*   Very ugly
 
 ### With CSS
 When adding css the website looks a lot better and its more comprehensive, because you can give some visual hierarchie by making the importnat stuff bigger and less important smaller.
@@ -43,7 +52,16 @@ The posssible solution for this is to add checkboxes to toggle visiblity in the 
 .checkbox:checked ~ .field{
     opacity: 1;
 }
-```
+``` 
 
-**Added CSS**
+**_Added CSS_**
 ![with css](https://github.com/LaupWing/fe-assessment-2/blob/master/docs/css_on.gif)
+
+#### Summary With CSS
+*   Visual Hierarchy
+*   More comprehensive
+*   Lighter on the eyes
+*   Less Effort to navigate
+
+### With CSS and Javascript
+By adding Javascript to the mix, the user can navigate to diffrent sections of the `form` by using the next and back buttons. Also there is an realtime check on the bottom to see which fields has to be filled in to maken an account. This also can be clicked to see what the error is or what the current state is.  

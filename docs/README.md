@@ -87,3 +87,6 @@ I began with a bare minimum html, which works, because it is  just a simple form
 Without CSS & JS             |  With CSS               |  With CSS & JS
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/LaupWing/fe-assessment-2/blob/master/docs/no_css_js.gif)  |  ![](https://github.com/LaupWing/fe-assessment-2/blob/master/docs/css_on.gif) |  ![](https://github.com/LaupWing/fe-assessment-2/blob/master/docs/navigate.gif)
+* test |* test |* test |
+* test |* test |* test |
+* test |* test |* test |

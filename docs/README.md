@@ -87,6 +87,9 @@ I began with a bare minimum html, which works, because it is  just a simple form
 Without CSS & JS             |  With CSS               |  With CSS & JS
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/LaupWing/fe-assessment-2/blob/master/docs/no_css_js.gif)  |  ![](https://github.com/LaupWing/fe-assessment-2/blob/master/docs/css_on.gif) |  ![](https://github.com/LaupWing/fe-assessment-2/blob/master/docs/navigate.gif)
-|* test |* test |* test |
-|* test |* test |* test |
-|* test |* test |* test |
+| ✔️ Can Signup |✔️ Can Signup |✔️ Can Signup |
+| ❌ No visual hierarchy |✔️ Visual hierarchy |✔️ Visual hierarchy |
+| ❌ Not clear |✔️ Stack Form fields for visibility |✔️ Stack Form fields for visibility |
+|              | ❌ Buttons not clickable|✔️ Button clickable|
+|              | ❌ No input checks| ✔️ Input checks|
+|              | ❌ Cant navigate through form|✔️ Can navigate through form|

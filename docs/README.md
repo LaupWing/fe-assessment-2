@@ -86,6 +86,7 @@ By adding Javascript to the mix, the user can navigate to diffrent sections of t
 I began with a bare minimum html, which works, because it is  just a simple form which sends data to the backed. By adding css the sites looks better and you give it a visual hierarchie which helps with the comprehension of the site. CSS also allows me to stack the form fields on top of each other to even improve the comprehension of the signup even more. By adding javascript the user can click on certian components of the site to see the more info and use the buttons to navigate through the form fields. 
 Without CSS & JS             |  With CSS               |  With CSS & JS
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/LaupWing/fe-assessment-2/blob/master/docs/no_css_js.gif)  |  ![](https://github.com/LaupWing/fe-assessment-2/blob/master/docs/css_on.gif) |  ![](https://github.com/LaupWing/fe-assessment-2/blob/master/docs/navigate.gif)* test |* test |* test |
-* test |* test |* test |
-* test |* test |* test |
+![](https://github.com/LaupWing/fe-assessment-2/blob/master/docs/no_css_js.gif)  |  ![](https://github.com/LaupWing/fe-assessment-2/blob/master/docs/css_on.gif) |  ![](https://github.com/LaupWing/fe-assessment-2/blob/master/docs/navigate.gif)
+|* test |* test |* test |
+|* test |* test |* test |
+|* test |* test |* test |

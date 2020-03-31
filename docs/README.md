@@ -1,7 +1,7 @@
 # Frontend Development 2
 
 ## Table of contents
-* [Hoisting, Scope, Closure, and Context]()
+* [Hoisting, Scope, Closure, and Context](https://github.com/LaupWing/fe-assessment-2/wiki)
 * [Progressive Enhancement](#progressive-enhancement)
     * [Without CSS and Javascript](#without-css-and-javascript)
         * [Summary Without CSS and Javascript](#summary-without-css-and-javascript)

@@ -1,6 +1,7 @@
 # Frontend Development 2
 
 ## Table of contents
+* [Live version](#live-version)
 * [Hoisting, Scope, Closure, and Context](https://github.com/LaupWing/fe-assessment-2/wiki)
 * [Progressive Enhancement](#progressive-enhancement)
     * [Without CSS and Javascript](#without-css-and-javascript)
@@ -9,6 +10,9 @@
         * [Summarry With CSS](#summary-with-css)
     * [With CSS and Javascript](#with-css-and-javascript)
         * [Summarry With Javascript](#summary-with-javascript)
+        
+## Live version
+[Click here to see the live version](https://laupwing.github.io/fe-assessment-2/)
 
 ## Progressive Enhancement
 Progressive Enhancement is gradually enhancing the website you are building. Your website has to work without javascript and css and by using javascript and css you can imporve your website (enhance). You can think of content first with Progressive enhancement.
